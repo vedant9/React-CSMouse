@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  color:white;
+  font-size: 1cm;
+  align-content: center;
+}
+
+body{
+  background-image: url("https://i.redd.it/7oxe2g7t0y411.jpg");
+  background-size: auto;
+
+}
+
+.App #Shoot{
+  margin-top: 100px;
+  background: black;
+  color: white;
+  padding: 16px;
+  border-radius: 24px;
+  width: 20%;
+  cursor: crosshair;
+  position: fixed;
+  right: 40%;
+  top: 50%;
+}
+
+.App #Start{
+  margin-top: 40px;
+  background: black;
+  color: white;
+  padding: 16px;
+  border-radius: 24px;
+  width: 20%;
+  position: fixed;
+  top: 80%;
+  right: 40%;
+}
+
+.App #Reset{
+  margin-top: 300px;
+  background: black;
+  color: aliceblue;
+  padding: 20px;
+  border-radius: 64px;
+  width: 20%;
+  position: fixed;
+  right: 25px;
+  top: 280px;
+}
